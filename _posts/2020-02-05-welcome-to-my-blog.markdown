@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Styling guide for Hikari: best practices"
-date:   2014-01-27 16:57:51
+title:  "Welcome to my new blog!"
+date:   2020-02-05 16:57:51
 ---
 
 #Welcome!
