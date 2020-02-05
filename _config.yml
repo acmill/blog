@@ -11,19 +11,17 @@ url: "https://tony-coleman.com/"
 baseurl: "/blog"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I'm a dev(?)"
+author-bio: "I'm both a developer and designer for frontend web. I hope you enjoy your stay!"
 
 # Social Accounts (mine, as placeholders)
 
 twitter: colemint
 github: acmill
-dribbble: m3xm
-instagram: m3xm
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
 ga_domain: tony-coleman.com
-ga_tracking_id: 
+ga_tracking_id: UA-157721768-1
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
