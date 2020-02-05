@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Welcome to my new blog!"
-date:   2020-02-05 16:57:51
+date:   2020-02-05 00:57:51
 ---
 
-I'm Tony and this is my blog. I have adapted an old project that you can reach [here](https://github.com/mx3m/hikari-for-jekyll). 
+I'm Tony and this is my blog. 
+I have adapted an old project that you can reach [here](https://github.com/mx3m/hikari-for-jekyll). 
 
 ### I will be utilizing this blog for:
 

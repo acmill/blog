@@ -1,8 +1,8 @@
 # Title of your blog; shows in the header
-name: "Tony's Blog"
+name: "Tony Miller"
 
 # Description of your content (will only be used on Google Search)
-description: "Tony Coleman's Blog"
+description: "Blog"
 
 # Your name. Will show in your footer + sidebar
 author: "Tony Coleman"
@@ -11,17 +11,25 @@ url: "https://tony-coleman.com/"
 baseurl: "/blog"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I'm both a developer and designer for frontend web. I hope you enjoy your stay!"
+author-bio: "I'm a front-end web platform developer + designer, though I tend to mess with things such as native mobile app development, embedded systems, and everything in between. I hope you enjoy your stay!"
 
 # Social Accounts (mine, as placeholders)
 
-twitter: colemint
+twitter: 0xTonyColeman
 github: acmill
+telegram: tonycoleman
+linkedin: acmill
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
 ga_domain: tony-coleman.com
 ga_tracking_id: UA-157721768-1
+
+# Filtering Content
+show_drafts         : null
+limit_posts         : 0
+future              : false
+unpublished         : false
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 

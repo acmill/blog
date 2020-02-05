@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Styling guide for Hikari: best practices"
-date:   2014-01-27 16:57:51
+date:   2020-01-27 16:57:51
 ---
 
 But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.

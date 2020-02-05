@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Hikari for Jekyll!"
-date:   2014-01-28 16:57:51
+title:  "Hikari for Jekyll: Welcome to the future"
+date:   2020-01-28 16:57:51
 ---
 
 Welcome to *Hikari*, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers' blog has always been the way to learn from the best. So I thought it was time to give back! 
