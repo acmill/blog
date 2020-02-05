@@ -29,7 +29,7 @@
           <p>{{ site.author-bio }}</p>
       </div>
       <nav>
-        <h6>Follow me on</h6>
+        <h6>Connect with me on</h6>
         <ul>
           {% if site.twitter %}
           <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
@@ -37,8 +37,11 @@
           {% if site.github %}
           <li><a target="_blank" href="https://github.com/{{ site.github }}">Github</a></li>
           {% endif %}
-          {% if site.instagram %}
-          <li><a target="_blank" href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
+          {% if site.telegram %}
+          <li><a target="_blank" href="https://telegram.me/{{ site.telegram }}">Instagram</a></li>
+          {% endif %}
+          {% if site.linkedin %}
+          <li><a target="_blank" href="https://linkedin.com/in/{{ site.linkedin }}">Instagram</a></li>
           {% endif %}
         </ul>
       </nav>
