@@ -4,10 +4,13 @@ title:  "Welcome to my new blog!"
 date:   2020-02-05 16:57:51
 ---
 
-#Welcome!
+# Heading 1
+Welcome!
+
 I'm Tony, and this is my blog. I have adapted an old project that you can reach [here](https://github.com/mx3m/hikari-for-jekyll). 
 
-##I will be utilizing this blog for
+## Heading 2
+I will be utilizing this blog for
 
 * Documenting my experiences with various tools - not much in this realm escapes my interest
 * Voicing my opinion regarding ongoing events in tech and elsewhere (everything is tech, right?)
