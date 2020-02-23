@@ -4,6 +4,8 @@
     display: inline-block;
     width: 100%;
     border-bottom: 1px solid darken($main-color, 6%);
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
 
     &:first-child {
       border-top: 1px solid darken($main-color, 6%);
